@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BackCard()
+comment1.params=world
+comment1.target=void\ getWorld(greenfoot.World)
+comment2.params=taskDescription
+comment2.target=BackCard(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=void\ addCardGraphically()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Act\ -\ do\ whatever\ the\ FrontCard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=player\ gameplay
+comment0.target=Opportunity(GamePiece,\ GamePlay)
+comment1.params=
+comment1.target=void\ performTask()
+comment2.params=
+comment2.target=void\ performGraphicDrawCard()
+numComments=3

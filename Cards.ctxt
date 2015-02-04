@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ drawCard()
+comment1.params=cardCardMessage
+comment1.target=void\ discardCard(java.lang.String)
+comment2.params=
+comment2.target=void\ shuffleCard()
+comment3.params=cardMessage
+comment3.target=void\ showDrawnCard(java.lang.String)
+numComments=4

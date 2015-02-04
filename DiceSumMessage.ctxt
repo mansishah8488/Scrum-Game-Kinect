@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiceSumMessage()
+comment1.params=
+comment1.target=DiceSumMessage\ getMessageInstance()
+comment2.params=message
+comment2.target=void\ setTextMessage(java.lang.String)
+numComments=3

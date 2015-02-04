@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=currentPlayer\ gameplay
+comment0.target=void\ diceRolled(GamePiece,\ GamePlay)
+comment1.params=dice_value
+comment1.target=void\ movePlayer(int[])
+numComments=2

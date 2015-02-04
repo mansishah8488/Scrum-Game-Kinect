@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProgressDice()
+comment1.params=world
+comment1.target=void\ getWorld(greenfoot.World)
+comment2.params=val
+comment2.target=int[]\ roll(int)
+comment3.params=
+comment3.target=int\ getDiceCount()
+comment4.params=
+comment4.target=void\ increaseDice()
+comment5.params=val
+comment5.target=int\ getSum(int[])
+comment6.params=val_arr
+comment6.target=int[]\ sort(int[])
+numComments=7

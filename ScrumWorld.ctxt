@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GamePlay\ getGamePlay()
+comment1.params=
+comment1.target=ScrumWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=boolean\ isLeftHandUp()
+comment3.text=public\ void\ act()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ super.act();\n\ \ \ \ \ \ \ \ //System.out.println(isConnected());\n\ \ \ \ \ \ \ \ if\ (\!isConnected())\n\ \ \ \ \ \ \ \ return;\n\n\ \ \ \ \ \ \ \ UserData[]\ us\ \=\ getTrackedUsers();\n\ \ \ \ \ \ \ \ boolean\ anyRightHandUp\ \=\ false;\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ //System.out.println(us);\n\ \ \ \ \ \ \ \ for\ (UserData\ u\:\ us)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ anyRightHandUp\ \=\ anyRightHandUp\ ||\ (u.getJoint(Joint.RIGHT_HAND).getY()\ <\ u.getJoint(Joint.HEAD).getY());\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ if(anyRightHandUp)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Right\ hand\ is\ up\!");\n\ \ \ \ \ \ \ \ \ \ \ \ gamePlay.diceRolled(gamePlay);\n\ \ \ \ \ \ \ \ \ \ \ \ Greenfoot.delay(100);\n\ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n}
+comment4.params=
+comment4.target=greenfoot.World\ getWorld()
+comment5.params=
+comment5.target=void\ setWorld()
+numComments=6
